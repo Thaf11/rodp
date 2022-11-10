@@ -1,0 +1,27 @@
+.cor {
+    background-color: #6AA9E9;
+    color: white;
+}
+
+.alinha {
+    text-align: center;
+}
+
+.cor2 {
+    background-color: #FEC517;
+    color: #318CE7;
+}
+
+.last {
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.rodp{
+    font-size: 20px;
+}
+
+.texto{
+    font-size: 11px;
+}
